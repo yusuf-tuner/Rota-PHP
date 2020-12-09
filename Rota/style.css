@@ -1,0 +1,35 @@
+.anasayfa_buton{
+
+	float: right;
+	padding-right: 190px;
+}
+
+.btn_anasayfa:hover{
+	background-color: green;
+}
+
+.musteri_input{
+
+	width: 60px;
+}
+
+.siparis_buton{
+
+	float: right;
+
+}
+
+.siparis_buton_2{
+
+	float: right;
+	padding-right: 130px;
+}
+
+.müsteri_buton{
+
+	float: right;
+	
+}
+
+
+
